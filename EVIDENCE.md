@@ -32,9 +32,6 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 | target-comfortable | 48px | 48px | yes |
 
 ---
-Regarding the discrepancy with text-secondary, I would trust the Figma file first, as the value within the css file makes the token identical to the text-tertiary token.
-
-Something of note I found, there are tokens for type weight within the tokens.css file but none within Figma. Not sure if this was something I should catch or not but I thought it was noteworthy.
 
 
 ## Sessions
