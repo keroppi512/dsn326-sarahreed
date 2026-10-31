@@ -25,9 +25,18 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 
 | Token | Figma value | `tokens.css` value | Agree? |
 |---|---|---|---|
-|  |  |  |  |
+| text-secondary | #524C46 | #6E675F | no |
+| type-label-line | 20px | 20px | yes |
+| space-inset-md | 16px | 16px | yes |
+| radius-full | 9999px | 9999px | yes |
+| target-comfortable | 48px | 48px | yes |
+| text-error | #B91C1C | #B91C1C | yes |
 
 ---
+Regarding the discrepancy with text-secondary, I would trust the Figma file first, as the value within the css file makes the token identical to the text-tertiary token.
+
+Something of note I found, there are tokens for type weight within the tokens.css file but none within Figma. Not sure if this was something I should catch or not but I thought it was noteworthy.
+
 
 ## Sessions
 
