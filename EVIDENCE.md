@@ -30,7 +30,6 @@ Keeping raw evidence separate from your reading of it is what lets you change yo
 | space-inset-md | 16px | 16px | yes |
 | radius-full | 9999px | 9999px | yes |
 | target-comfortable | 48px | 48px | yes |
-| text-error | #B91C1C | #B91C1C | yes |
 
 ---
 Regarding the discrepancy with text-secondary, I would trust the Figma file first, as the value within the css file makes the token identical to the text-tertiary token.
