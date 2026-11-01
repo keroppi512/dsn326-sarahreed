@@ -49,40 +49,40 @@ Service density has larger body text to compensate for all of the parts of food 
 
 target-min doesn't get smaller with compact because it is a constant throughout all of the densities. It is a safety gate to keep elements compliant with accessibility needs. 
 
-Component 1:
-List Row
-What it does: 
-Displays information for the user to view and select.
-Variants: 
-Basic - Heading only
-Detailed with secondary text - Heading with secondary text
-With trailing price - Heading with secondary text and a price on the side.
-States:
-Default - background is transparent with a small surface/subtle outline on the bottom of the item
-Hover - color changes to surface-subtle when mouse hovers.
-Focus - outline with border-focus with a width of focus-ring-width and an offset of focus-ring-offset.
-Active - surface-subtle background color.
-Disabled - background color becomes surface/subtle with a 0.5 opacity.
-Selected - surface-brand-subtle background, outline to the left with border interactive-default. There is a hover variant that does not change anything, as the background is the only property declared and it stays the same.
-Tokens used: 
-space-inline-md, list-row-min-height, space-inset-sm, space-inset-md, border-subtle, surface-subtle, surface-brand-subtle, focus-ring-width, border-focus, focus-ring-offset, interactive-default, list-row-leading--size, radius-full, text-secondary, type-body-size, type-body-line, type-label-weight, text-primary, type-caption-size, type-caption-line, type-caption-weight, space-gap-sm, text-tertiary, type-caption-size, type-caption-line, target-min, radius-sm.
-What surprised me: 
-This component seemed very simple at first glance, however once I looked into the CSS and saw what when into it I was amazed at how many tokens and states go into this component. 
+Component 1:  
+List Row  
+What it does:  
+Displays information for the user to view and select.  
+Variants:  
+Basic - Heading only  
+Detailed with secondary text - Heading with secondary text  
+With trailing price - Heading with secondary text and a price on the side.  
+States:   
+Default - background is transparent with a small surface/subtle outline on the bottom of the item.   
+Hover - color changes to surface-subtle when mouse hovers.  
+Focus - outline with border-focus with a width of focus-ring-width and an offset of focus-ring-offset.  
+Active - surface-subtle background color.  
+Disabled - background color becomes surface/subtle with a 0.5 opacity.  
+Selected - surface-brand-subtle background, outline to the left with border interactive-default. There is a hover variant that does not change anything, as the background is the only property declared and it stays the same.  
+Tokens used:   
+space-inline-md, list-row-min-height, space-inset-sm, space-inset-md, border-subtle, surface-subtle, surface-brand-subtle, focus-ring-width, border-focus, focus-ring-offset, interactive-default, list-row-leading--size, radius-full, text-secondary, type-body-size, type-body-line, type-label-weight, text-primary, type-caption-size, type-caption-line, type-caption-weight, space-gap-sm, text-tertiary, type-caption-size, type-caption-line, target-min, radius-sm.  
+What surprised me:   
+This component seemed very simple at first glance, however once I looked into the CSS and saw what when into it I was amazed at how many tokens and states go into this component.   
 
-Component 2:
-Stepper
-What it does:
-Allows the user to enter a number via increment and decrement buttons
-Variants: N/A
-States:
-Default - Contains a background color of surface-raised as well as a thin border. Has two buttons on either side, one to increment the number and another to decrement the number. The buttons have a hover, active, and focus state. Hover changes the button to surface-subtle when hovered over, active changes the color to interactive-subtle, and focus adds a focus ring that is border-focus color and is focus-ring-width in width.
-Min reached - the decrement button is disabled and can no longer be pressed.
-Max reached - the increment button is disabled and can no longer be pressed.
-Fully disabled - the stepper cannot be incremented or decremented. Color changes to surface-subtle and border-subtle.
-Tokens used:
-stepper-total-width, border-default, radius-sm, surface-raised, stepper-button-size, target-min, type-body-size, type-label-weight, text-primary, surface-subtle, interactive-subtle, focus-ring-width, border-focus, stepper-value-width, type-body-size, type-body-line, type-label-weight, text-disabled, border-subtle.
-What surprised me:
-I didn't think about the need for a state to disable the increment and decrement buttons until I looked at the source and saw the states. It made sense when I saw it, but it did not come to mind at first. 
+Component 2:  
+Stepper  
+What it does:  
+Allows the user to enter a number via increment and decrement buttons. 
+Variants: N/A. 
+States:  
+Default - Contains a background color of surface-raised as well as a thin border. Has two buttons on either side, one to increment the number and another to decrement the number. The buttons have a hover, active, and focus state. Hover changes the button to surface-subtle when hovered over, active changes the color to interactive-subtle, and focus adds a focus ring that is border-focus color and is focus-ring-width in width.  
+Min reached - the decrement button is disabled and can no longer be pressed.  
+Max reached - the increment button is disabled and can no longer be pressed.  
+Fully disabled - the stepper cannot be incremented or decremented. Color changes to surface-subtle and border-subtle.  
+Tokens used:  
+stepper-total-width, border-default, radius-sm, surface-raised, stepper-button-size, target-min, type-body-size, type-label-weight, text-primary, surface-subtle, interactive-subtle, focus-ring-width, border-focus, stepper-value-width, type-body-size, type-body-line, type-label-weight, text-disabled, border-subtle.  
+What surprised me:  
+I didn't think about the need for a state to disable the increment and decrement buttons until I looked at the source and saw the states. It made sense when I saw it, but it did not come to mind at first.   
 
 ---
 
