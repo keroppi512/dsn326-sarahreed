@@ -64,7 +64,7 @@ I didn't think about the need for a state to disable the increment and decrement
 
 ## 2026-10-13 - Created 5 Task Script
 
-**What I decided: The tasks that I would have my testers complete**
-**Why: I would like for them to encounter the ticket's problem head-on, and these tasks will bring them to it.**
-**What I gave up: n/a**
-**What would change this: If there was another piece to the puzzle, I would alter the tasks to include this as well.**
+**What I decided: The tasks that I would have my testers complete**  
+**Why: I would like for them to encounter the ticket's problem head-on, and these tasks will bring them to it.**  
+**What I gave up: n/a**. 
+**What would change this: If there was another piece to the puzzle, I would alter the tasks to include this as well.**  
