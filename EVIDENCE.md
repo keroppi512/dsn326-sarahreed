@@ -45,7 +45,7 @@ This table records target-min at each environment setting.
 | standard | 44px | 44px | 44px |
 | high-glare | 56px | 56px | 56px |
 
-Service density has larger body text to compensate for all of the parts of food service that would make an app on a handheld hard to view. Customers are likely in a low stress, stationary state where there isn't much going on around them. This means they can have smaller text. Service workers are constantly on the move and therefore it is harder to read the smaller text that comes with the comfortable or compact densities.
+Service density has larger body text to compensate for all of the parts of food service that would make an app on a handheld hard to view. Customers are likely in a low stress, stationary state where there isn't much going on around them. This means they can have smaller text. Service workers are constantly on the move and therefore it is harder to read the smaller text that comes with the comfortable or compact densities./n
 target-min doesn't get smaller with compact because it is a constant throughout all of the densities. It is a safety gate to keep elements compliant with accessibility needs. 
 
 Component 1:
