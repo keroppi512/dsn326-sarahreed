@@ -68,3 +68,27 @@ I didn't think about the need for a state to disable the increment and decrement
 **Why: I would like for them to encounter the ticket's problem head-on, and these tasks will bring them to it.**  
 **What I gave up: n/a**. 
 **What would change this: If there was another piece to the puzzle, I would alter the tasks to include this as well.**  
+
+## 2026-11-4 - Gap Closure
+
+Week 2 Studio A: Gap Closure  
+
+Gap 1: The Missing Number  
+
+The Gap: The specific percentage of abandoned checkouts, and how much they have grown since before the March change.  
+What I found: The number of abandoned carts has grown from 24% to 29% after the change in March. No step-level breakdown is available according to Dev.  
+Source: PM Pack Metrics confirmed with Dev.  
+What it changes: This number is very dramatic and demands a fix to encourage customers to complete their purchases without confusion or frustration about where fees are coming from. By adding this metric, it makes the severity of the problem more apparent. Not knowing where specifically customers leave in the checkout process is a handicap, and I will have to monitor that.  
+
+Gap 2: The solution disguised as a problem  
+
+What the ticket asks for: Running breakdown added to the cart.  
+The problem underneath it: Customers see a total price on screen that they can’t account for and, feeling misled or surprised by the fees, abandon the checkout process.  
+How I know they are different: By only giving this proposed solution, ideas for simpler solutions are not in the equation. By presenting the problem at hand instead, there is more room for these ideas.  
+Does the proposed solution address the real problem? Partly. It would technically solve the problem by showing the user the fees up front and eliminate any surprises, however this would be difficult to implement without the screen becoming cluttered. I think there are more elegant solutions to be explored here.  
+
+Gap 3: The unstated constraint  
+
+The constraint: Legal compliance changes in March require fees to be shown before the charge via an itemized cost breakdown.   
+Where I found it: PM Pack Constraint Registry. 
+What it rules out: Hiding fees within the cost of food items, one-tap checkout, explaining the fees after the customer pays, lumping fees together.  
