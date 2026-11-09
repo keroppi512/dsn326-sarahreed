@@ -81,8 +81,14 @@ Five Task Script:
 
 Three specific moments within the study:  
 
-1. P1 exclaims that the prices are high multiple times. He notes the extra charges for customization items. He was able to customize the items how he likes, however he was not a fan of how expensive it was to do so.  
+1. P1 exclaims that the prices are high multiple times. He notes the extra charges for customization items. He was able to customize the items how he likes, however he was not a fan of how expensive it was to do so. He chalked it up to being "today's prices".  
 2. Both participants got through the app without help. It went slower for P2 as she is slightly less computer-literate than P1. She had issues figuring out how to scroll at first which slowed her down, however she figured it out.  
 3. P2 was going to order a Baja Fish taco, however exclaimed that "They don't have what I want, that sucks!" The item she was going to order was out of stock with no explanation.  
-4. Neither participant noticed the price discrepancy of the cart. They both were not paying attention to the cart's total. They did both notice, however the baseline prices and how high those were, however.  
-5. P1 pointed out that the character limit on the comment box may be limiting to some. he also mentioned that there was no way to customize the pickup time, which confused him.
+4. P1 pointed out that the character limit on the comment box may be limiting to some. he also mentioned that there was no way to customize the pickup time, which confused him.
+
+Both people verbalized concerns about pricing of the food and drink and customization fees. They were not sure why the prices ended up being so high after adding to cart. The lack of transparency has an effect on this result, as the fee is added unbeknownst to the customer until the very end.  
+
+The framed problem:  
+Users who order for the first time or only once in a while do not have an understanding of where extra costs come from between the price listed on the menu and the total displayed with the cart. The itemized total being so far down in the order process fails to inform users on where their money is going until the transaction is nearly complete, leaving them in the dark. In my sessions, both participants didn't know why the prices of the items end up so high, and they didn't know what it was for until the very end. It violates the Visibility of System Status heuristic by keeping the true nature of the fees hidden until three taps after adding an item to cart.  
+
+Success Measure: No mention of prices within testing and no double takes at the amount being higher than the regular price. 
