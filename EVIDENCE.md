@@ -84,5 +84,5 @@ Three specific moments within the study:
 1. P1 exclaims that the prices are high multiple times. He notes the extra charges for customization items. He was able to customize the items how he likes, however he was not a fan of how expensive it was to do so.  
 2. Both participants got through the app without help. It went slower for P2 as she is slightly less computer-literate than P1. She had issues figuring out how to scroll at first which slowed her down, however she figured it out.  
 3. P2 was going to order a Baja Fish taco, however exclaimed that "They don't have what I want, that sucks!" She also remarked upon prices and fees.  
-
-Note: Neither participant noticed the price discrepancy of the cart. They both were not paying attention to the cart's total. They did both notice, however the baseline prices and how high those were, however.
+4. Neither participant noticed the price discrepancy of the cart. They both were not paying attention to the cart's total. They did both notice, however the baseline prices and how high those were, however.  
+5. P1 pointed out that the character limit on the comment box may be limiting to some. he also mentioned that there was no way to customize the pickup time, which confused him.
