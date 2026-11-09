@@ -57,9 +57,32 @@ Five Task Script:
 
 ## Sessions
 
-### P1 — YYYY-MM-DD, round [1/2]
+### P1 — 2026-11-07, round [1/2]
 
-**Consent:** 
-**Setup:** 
-**Task 1:** 
-**Task 2:** 
+**Consent: Yes** 
+**Setup: Gave them a session of Heard Guest** 
+**Task 1: Started the order for family, adding items to the order with customizations - 3 minutes 5 seconds** 
+**Task 2: Goes to review order - 32 seconds**  
+**Task 3: Chose a pickup time. Entered phone number - 34 seconds**  
+**Task 4: Add a tip - 11 seconds**  
+**Task 5: Chose ideal payment method and submitted order - 35 seconds**  
+**Total time: 4:47**  
+
+### P2 — 2026-11-07, round [1/2]
+
+**Consent: Yes** 
+**Setup: Gave them a session of Heard Guest** 
+**Task 1: Started the order for family, adding items to the order with customizations - 3 minutes 39 seconds** 
+**Task 2: Goes to review order - 35 seconds**  
+**Task 3: Chose a pickup time. Entered phone number - 45 seconds**  
+**Task 4: Add a tip - 10 seconds**  
+**Task 5: Chose ideal payment method and submitted order - 39 seconds**  
+**Total time 5:08**  
+
+Three specific moments within the study:  
+
+1. P1 exclaims that the prices are high multiple times. He notes the extra charges for customization items. He was able to customize the items how he likes, however he was not a fan of how expensive it was to do so.  
+2. Both participants got through the app without help. It went slower for P2 as she is slightly less computer-literate than P1. She had issues figuring out how to scroll at first which slowed her down, however she figured it out.  
+3. P2 was going to order a Baja Fish taco, however exclaimed that "They don't have what I want, that sucks!" She also remarked upon prices and fees.  
+
+Note: Neither participant noticed the price discrepancy of the cart. They both were not paying attention to the cart's total. They did both notice, however the baseline prices and how high those were, however.
