@@ -59,9 +59,9 @@ Five Task Script:
 
 ### P1 — 2026-11-07, round [1/2]
 
-**Consent: Yes** 
-**Setup: Gave them a session of Heard Guest** 
-**Task 1: Started the order for family, adding items to the order with customizations - 3 minutes 5 seconds** 
+**Consent: Yes**  
+**Setup: Gave them a session of Heard Guest**  
+**Task 1: Started the order for family, adding items to the order with customizations - 3 minutes 5 seconds**  
 **Task 2: Goes to review order - 32 seconds**  
 **Task 3: Chose a pickup time. Entered phone number - 34 seconds**  
 **Task 4: Add a tip - 11 seconds**  
@@ -70,9 +70,9 @@ Five Task Script:
 
 ### P2 — 2026-11-07, round [1/2]
 
-**Consent: Yes** 
-**Setup: Gave them a session of Heard Guest** 
-**Task 1: Started the order for family, adding items to the order with customizations - 3 minutes 39 seconds** 
+**Consent: Yes**  
+**Setup: Gave them a session of Heard Guest**    
+**Task 1: Started the order for family, adding items to the order with customizations - 3 minutes 39 seconds**  
 **Task 2: Goes to review order - 35 seconds**  
 **Task 3: Chose a pickup time. Entered phone number - 45 seconds**  
 **Task 4: Add a tip - 10 seconds**  
