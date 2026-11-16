@@ -92,3 +92,15 @@ Gap 3: The unstated constraint
 The constraint: Legal compliance changes in March require fees to be shown before the charge via an itemized cost breakdown.   
 Where I found it: PM Pack Constraint Registry. 
 What it rules out: Hiding fees within the cost of food items, one-tap checkout, explaining the fees after the customer pays, lumping fees together.  
+
+## 2026-11-13 - Three Options
+
+Tradeoff Table:
+
+| | Option 1 | Option 2 | Option 3 |
+|In one sentence| Shows the user the restaurant fee amount up front and provides a persistent cart breakdown that updates with new items added to cart.| Discloses the fee percentage upfront and shows a total breakdown when the user views the cart, which replaces the total card.| Provides an expandable cart breakdown which the user clicks a button to view. |
+|What it costs the system, including build effort| Costs screen space and time for math calculations live on the screen | Requires a component to be altered on the cart screen | Requires the user to press another button|
+|What it assumes| That the user will not mind the clutter in exchange for transparency | That the user will be okay waiting until the cart screen to view the total | That the user will press the button and expand the breakdown themselves |
+|What would kill it| Not updating the fee and taxes properly when items are added to cart | The fee disclosure at the start not accurately depicting the percentage or being present when the restaurant has no service fee | If the button to expand the total does not function properly |
+
+
