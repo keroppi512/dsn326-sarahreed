@@ -105,3 +105,20 @@ Tradeoff Table:
 | What would kill it | Not updating the fee and taxes properly when items are added to cart | The fee disclosure at the start not accurately depicting the percentage or being present when the restaurant has no service fee | If the button to expand the total does not function properly |
 
 
+## 2026-11-19 - Direction and constraint
+
+I am choosing Option number two, as it is the most logical choice out of the three for a solution according to my previous tests. Two out of three participants in my preference test appreciated both the space-saving design, and the transparency of the screen. Additionally, during my Week 2 sessions, the participants were unaware of any fees that were added to their order. I feel that having it right above the total near the button to continue would draw customers to see where their money is going more clearly.  
+
+What the data doesn't tell me is whether or not the lack of a sooner breakdown is the reason that customers are dropping off of their orders. I cannot figure out from preference tests alone if this would encourage users to continue their order.  
+
+Something that would have changed my decision is if more of my participants were in favor of a more transparent and up-front option  in exchange for more screen space. If this were the case, I might be more inclined to choose option 1. The other two choices will be deferred.  
+
+The direction could be affected by the switch from compact to comfortable when moving from mobile to computer. It is also affected by restaurants configuring their own fee percentages and must update to compensate.  
+
+Clarifying question: Which cart element would be best to demote or collapse so the fee breakdown stays visible at both widths?  
+
+If I get no response, I would assume that the total card would be the best to eliminate. I would take the total card and make it into the new breakdown card.    
+
+The trade-off is that an element would have to be removed or diminished in place of the breakdown to keep it visible in both densities. In the case of the total card, it may make it less likely for the customer to understand what the full cost is in the cart screen.  
+
+This could be undone, by bringing the component back to its original state.   
