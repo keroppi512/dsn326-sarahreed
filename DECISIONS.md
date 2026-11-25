@@ -122,3 +122,22 @@ If I get no response, I would assume that the total card would be the best to el
 The trade-off is that an element would have to be removed or diminished in place of the breakdown to keep it visible in both densities. In the case of the total card, it may make it less likely for the customer to understand what the full cost is in the cart screen.  
 
 This could be undone, by bringing the component back to its original state.   
+
+# 2026-11-22 - Full Fidelity
+
+Figma link: https://www.figma.com/design/BhcSucNPjczvAN56KThJcT/Full-Fidelity-Solution?node-id=2012-2&t=gliXYOly3RTsilFV-1  
+
+Primary device: Phone  
+Secondary device: Tablet/Computer  
+
+States:  
+Menu View - 0% fees  
+Cart view - 0% fees, Empty cart  
+
+Strings the change introduces: "*Includes a 12% restaurant service fee". The cart breakdown string can be taken from the original later breakdown.  
+
+My Week 6 Sessions:  
+P1 - 11/30 @ 8pm  
+P2 - 11/31 @ 8pm
+
+
